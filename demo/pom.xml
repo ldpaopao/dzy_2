@@ -50,6 +50,7 @@
             <artifactId>spring-boot-devtools</artifactId>
             <scope>runtime</scope>
             <optional>true</optional>
+
         </dependency>
         <dependency>
             <groupId>org.mybatis.spring.boot</groupId>
