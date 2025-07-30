@@ -15,6 +15,7 @@
 - 
 普通用户开始注册。
 <img width="865" height="382" alt="image" src="https://github.com/user-attachments/assets/70622ed3-18f8-43b2-8cb9-820791bad6a5" />
+
 注册成功以后可以登录，登录跳转到抽奖页面，开始抽奖
 <img width="865" height="492" alt="image" src="https://github.com/user-attachments/assets/e0cf29c2-6a18-4b40-b33d-5b2bc22e1622" />
 <img width="865" height="433" alt="image" src="https://github.com/user-attachments/assets/15b66c26-4661-4c7e-9539-3f5616922327" />
